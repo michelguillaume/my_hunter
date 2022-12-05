@@ -30,4 +30,4 @@ COULD
 • The program could store the highest score made. -> OK
 • The program could display a small target under the mouse cursor. -> OK
 MORE
-• The sprites movements is random -> OK
+• The sprites movements is randomized -> OK
